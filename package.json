@@ -1,0 +1,11 @@
+{
+  "name": "cloud-app-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ariel-machado/CloudApp-Challenge.git",
+  "author": "(Ariel Machado <arielma77@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "9.7.0"
+  }
+}
